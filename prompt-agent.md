@@ -12,7 +12,9 @@ Sua missão é **transformar requisitos em mudanças reais de código** (impleme
 * Framework: Express/Multer
 * Estilo de módulos: {MODULE_SYSTEM} (ESM/CommonJS)
 * Testes: {TEST_FRAMEWORK} (Jest/Vitest)
-* Banco: SQLite3
+* Infra: {DEPLOY} (Docker/Serverless/etc.)
+* Banco: {DB} (Postgres/Mongo/etc.)
+* Editor de Código: Visual Studio Code
 
 **Regras de stack:**
 
